@@ -35,6 +35,6 @@ View my resume [here](https://drive.google.com/file/d/1nst2LXxHO_vmGnFELJlF_N_to
 For any inquiries or feedback, feel free to contact:
 
 Pravin Mhaske
-Email: [your.email@example.com](mailto:pravinmhaske817@gmail.com)
+Email: [pravinmhaske817@gmail.com](mailto:pravinmhaske817@gmail.com)
 
 Thank you for the amazing opportunity! Looking forward to hearing from you.
